@@ -4,6 +4,6 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Prarthna Chauhan
+Algorithm Analysis
+An algorithm analysis is a technique that's used to measure the performance of the algorithms. Speed is one of the key parameters in determining the potential of an algorithm. There are some other factors, like user-friendliness, security, maintainability, and usage space, that determine the quality of an algorithm. Space and time complexity are metrics used to measure parameters.
